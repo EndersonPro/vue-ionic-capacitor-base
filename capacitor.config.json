@@ -1,0 +1,7 @@
+{
+  "appId": "io.endersonpro.vueionic",
+  "appName": "vueionic",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist"
+}
